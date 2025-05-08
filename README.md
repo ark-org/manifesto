@@ -1,0 +1,2 @@
+# manifesto
+Initial Commit
